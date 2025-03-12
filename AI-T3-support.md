@@ -1,3 +1,7 @@
+layout: page
+title: "SCALING HUMAN POTENTIAL FOR AI"
+permalink: /AI-T3-support
+
 **this is an essay I wrote in March 2025. We'll see how well it stands up to reality**
 
 # SCALING HUMAN POTENTIAL FOR AI-POWERED TIER THREE SUPPORT
