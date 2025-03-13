@@ -12,7 +12,7 @@ Technical support isn’t just about solving problems—it’s about scaling pro
 
 The key to scaling support is quickly turning unstructured problems into structured ones, creating opportunities for process, automation, and better product outcomes. AI is going to accelerate this process by helping support organizations recognize patterns faster and move more problems into structured, repeatable solutions. Here’s an illustration of the concept.
 
-![Image showing problem structure spectrum](https://kincyc.github.io/main/assets/images/image-name.png)
+![Image showing problem structure spectrum](https://kincyc.github.io/main/assets/images/problem-structure.png)
 
 Tier Three Support is the team responsible for taking down the Godzilla problems—the unstructured challenges that don’t come with a playbook. We don’t know how Godzilla got to Tokyo, and we don’t know how to get rid of him—but it’s T3’s job to figure it out.
 
